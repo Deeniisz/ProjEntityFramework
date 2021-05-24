@@ -1,0 +1,2 @@
+C:\Users\Deeniisz\source\repos\ProjEntityFrameword\ProjEntityFrameword\obj\Debug\ProjEntityFrameword.csprojAssemblyReference.cache
+C:\Users\Deeniisz\source\repos\ProjEntityFrameword\ProjEntityFrameword\obj\Debug\ProjEntityFrameword.csproj.CoreCompileInputs.cache
